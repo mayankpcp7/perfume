@@ -1,0 +1,11 @@
+:root{
+    --olive-gray:#5e5e4a;
+    --light-gray:#d7d7cb;
+}
+
+.font-olive-gray{
+    color: var(--olive-gray);
+}
+
+.bg-olive-gray { background-color: var(--olive-gray); }
+.bg-light-gray { background-color: var(--light-gray); }
