@@ -18,6 +18,13 @@
   font-family: 'Avenir', sans-serif;
 }
 
+.overflow-hidden{
+  overflow: hidden;
+}
+ html {
+      scroll-behavior: smooth;
+    }
+
 body{
     font-family: 'Avenir', sans-serif;
 }
